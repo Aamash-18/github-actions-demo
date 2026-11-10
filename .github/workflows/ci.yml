@@ -22,4 +22,4 @@ jobs:
         run: npm install
 
       - name: Run Application
-        run: node wrongfile.js
+        run: node index.js
