@@ -8,7 +8,7 @@ test('10 + 20 should equal 30', () => {
 });
 
 test('5 + 5 should equal 10', () => {
-    assert.strictEqual(add(5, 5), 15);
+    assert.strictEqual(add(5, 5), 10);
 });
 
 test('Negative numbers should work', () => {
